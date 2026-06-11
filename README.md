@@ -16,3 +16,15 @@ Technologie, z którymi pracuję najczęściej i które znam najlepiej, to:
 Lubię tworzyć praktyczne rozwiązania i obserwować efekty swojej pracy. Dużą satysfakcję daje mi rozwiązywanie problemów w kodzie oraz poszukiwanie coraz lepszych sposobów realizacji projektów. Cenię możliwość ciągłego rozwoju i zdobywania nowej wiedzy.
 
 W przyszłości chciałbym wykorzystać swoje umiejętności, pracując przy większych projektach i będąc częścią zespołu tworzącego rozwiązania, które mają realny wpływ na użytkowników.
+
+## Projekty
+
+### SwooshSpot
+![Screenshot](https://github.com/KacperZawisza/SwooshSpot/blob/main/Assets/Images/Screenshot1.png)
+Sklep internetowy napisany od podstaw bez wykorzystania frameworków.
+
+Technologie:
+PHP, MySQL, JavaScript, HTML, CSS
+
+Repozytorium:
+[Zobacz repozytorium](https://github.com/KacperZawisza/SwooshSpot)
