@@ -1,4 +1,4 @@
-# Portfolio
+# O mnie
 
 Cześć! Nazywam się Kacper.
 
